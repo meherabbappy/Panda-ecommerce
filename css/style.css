@@ -1,0 +1,13 @@
+.bg-info-my{
+    background-color: #FEEAE9;
+}
+
+.btn-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    /* width: 168px;
+    height: 52px; */
+    padding: 14px 20px;
+    color: white;
+    font-weight: 600;
+    /* font-size: 12px; */
+}
